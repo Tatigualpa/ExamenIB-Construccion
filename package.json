@@ -1,7 +1,7 @@
 {
   "name": "ci-cd-example",
   "version": "1.0.0",
-  "description": "Ejemplo básico para CI/CD con GitHub Actions",
+  "description": "Ejemplo para Examen",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
