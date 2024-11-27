@@ -1,0 +1,16 @@
+{
+  "name": "ci-cd-example",
+  "version": "1.0.0",
+  "description": "Ejemplo básico para CI/CD con GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
